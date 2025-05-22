@@ -13,7 +13,7 @@ https://nodejs.org/en/download/
 Then run the following commands in terminal:
 
 1. ``git clone https://github.com/Pancakeswap-PredictionBot/Pancakeswap-Prediction-Bot-2025`` 
-2. ``cd Pancakeswap-Prediction-Bot`` (replace with your cloned/downloaded bot folder)
+2. ``cd Pancakeswap-Prediction-Bot-2025`` (replace with your cloned/downloaded bot folder)
 3. ``npm i``
 
 ![enter image description here](/images/setup.jpg?raw=true)
